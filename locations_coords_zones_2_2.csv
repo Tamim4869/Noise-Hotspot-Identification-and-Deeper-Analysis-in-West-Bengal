@@ -1,0 +1,316 @@
+SL,location,district_x,cdn_url,lat_x,long_x,zone
+1,"WBPCB Office, Saltlake",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0253_WBPCB Office, Saltlake.csv",22.562212,88.409355,Commercial
+2,"Sector V Industrial Township Authority, Nabadiganta Bhavan",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0102_Sector V Industrial Township Authority, Nabadiganta Bhavan.csv",22.576099,88.434296,Commercial
+3,"Bandel Thermal Power station, WBPDCL, Bandel",Hooghly,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0104_Bandel Thermal Power station, WBPDCL, Bandel.csv",22.993042,88.386879,Industrial 
+4,West Bengal State University,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0105_West Bengal State University.csv,22.738518,88.435631,Silence zone
+5,Sidho-Kanho-Birsha University,Purulia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0106_Sidho-Kanho-Birsha University.csv,23.360718,86.339699,Silence zone
+6,Vidyasagar University,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0107_Vidyasagar University.csv,22.430517,87.296173,Silence zone
+7,"Jhargram Raj College, Jhargram",Jhargram,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0108_Jhargram Raj College, Jhargram.csv",22.435539,86.99028,Silence zone
+8,Leather Complex,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0111_Leather Complex.csv,22.495419,88.509193,Commercial
+9,Durgapur WBPCB Office,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0109_Durgapur WBPCB Office.csv,23.537882,87.294304,Commercial
+10,Shahid Matangini Hazra Govt College for Women,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0110_Shahid Matangini Hazra Govt College for Women.csv,22.270634,87.895721,Silence zone
+11,"Extended Campus of BCKV, Burdwan",Purba Bardhaman,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0101_Extended Campus of BCKV, Burdwan.csv",23.241703,87.896255,Silence zone
+12,Burdwan University,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0113_Burdwan University.csv,23.246672,87.852997,Silence zone
+13,Bidhan Chandra Krishi Viswavidyalaya,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0112_Bidhan Chandra Krishi Viswavidyalaya.csv,22.944738,88.533348,Silence zone
+14,Diamond Harbour Women's University,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0137_Diamond Harbour Women's University.csv,22.258394,88.195847,Silence zone
+15,"WBPCB Office, Malda",Malda,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0115_WBPCB Office, Malda.csv",24.981323,88.141182,Commercial
+16,Siliguri WBPCB Office,Darjeeling,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0118_Siliguri WBPCB Office.csv,26.7228917,88.3901084,Commercial
+17,"District Police Office Building, Dakshin Dinajpur",Dakshin Dinajpur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0117_District Police Office Building, Dakshin Dinajpur.csv",25.227339,88.775375,Commercial
+18,University of North Bengal,Darjeeling,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0121_University of North Bengal.csv,26.713383,88.358124,Silence zone
+19,New Town Kolkata Development Authority (A-1)- HIDCO,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0122_New Town Kolkata Development Authority (A-1)- HIDCO.csv,22.6112914,88.469626,Residential
+20,"Kazi Nazrul University, Asansol",Paschim Bardhaman,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0123_Kazi Nazrul University, Asansol.csv",23.693668,86.995033,Silence zone
+21,Kalinnagar Mahavidyalaya,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0134_Kalinnagar Mahavidyalaya.csv,22.430758,88.866501,Silence zone
+22,Kalimpong Police Station,Kalimpong,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0127_Kalimpong Police Station.csv,27.064697,88.469124,Commercial
+23,Asansol WBPCB Office,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0129_Asansol WBPCB Office.csv,23.704668,86.965622,Commercial
+24,Durgapur Govt. College,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0130_Durgapur Govt. College.csv,23.542808,87.3248601,Silence zone
+25,"Darjeeling Police Town Office Complex, Chowk Bazaar",Darjeeling,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0128_Darjeeling Police Town Office Complex, Chowk Bazaar.csv",27.043852,88.265266,Commercial
+26,"Abdarpur Guest House, WBPDCL",Birbhum,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0131_Abdarpur Guest House, WBPDCL.csv",23.896692,87.514046,Residential
+27,Alipurduar District Police Lines,Alipurduar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0125_Alipurduar District Police Lines.csv,26.499706,89.530449,Commercial
+28,"Krishnath College, Murshidabad",Murshidabad,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0124_Krishnath College, Murshidabad.csv",24.091747,88.24678,Silence Zone
+29,"University of North Bengal, Jalpaiguri",Jalpaiguri,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0126_University of North Bengal, Jalpaiguri.csv",26.54834,88.695282,Silence Zone
+30,"Panskura Banamali College, Panskura R.S, Purba Medinipur",Purba Medinipur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0136_Panskura Banamali College, Panskura R.S, Purba Medinipur.csv",22.3959942,87.7407114,Silence zone
+31,Coochbehar Panchanan Barma University,Coochbehar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0120_Coochbehar Panchanan Barma University.csv,26.320967,89.469582,Silence zone
+32,"Bankura Christian College, Bankura",Bankura,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0139_Bankura Christian College, Bankura.csv",23.238396,87.060463,Silence zone
+33,"VIVEKANANDA COLLEGE FOR WOMEN, BARISHA",Kolkata,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0140_VIVEKANANDA COLLEGE FOR WOMEN, BARISHA.csv",22.488209,88.314522,Silence zone
+34,"​Serampore college, Hoogly",Hooghly,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0141_​Serampore college, Hoogly.csv",22.751969,88.352009,Silence zone
+35,"Ramananda College Bishnupur, Bankura",Bankura,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0143_Ramananda College Bishnupur, Bankura.csv",23.064409,87.325882,Silence zone
+36,"Rampurhat College, Rampurhat",Birbhum,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0145_Rampurhat College, Rampurhat.csv",24.172697,87.780518,Silence zone
+37,Raiganj DM Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0135_Raiganj DM Office.csv,25.654659,88.148994,Commercial
+38,Basirhat College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0144_Basirhat College.csv,22.670507,88.847984,Silence zone
+39,Habra College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0138_Habra College.csv,22.835104,88.639679,Silence zone
+40,"Nagar College, Murshidabad",Murshidabad,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0142_Nagar College, Murshidabad.csv",24.083647,87.987076,Silence zone
+41,"Subhas Ch. Bose Centenary College, Lalbagh",Murshidabad,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0146_Subhas Ch. Bose Centenary College, Lalbagh.csv",24.172281,88.280258,Silence zone
+42,"Chandrapur College, Chandrapur",Purba Bardhaman,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0147_Chandrapur College, Chandrapur.csv",23.46344,88.076286,Silence zone
+43,"Kabi Jagadram Roy Government General Degree College, Mejia",Bankura,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0148_Kabi Jagadram Roy Government General Degree College, Mejia.csv",23.577417,87.100685,Silence zone
+44,Panchthupi Haripada Gouribala College,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0150_Panchthupi Haripada Gouribala College.csv,23.890934,87.976921,Silence zone
+45,Sarsuna College,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0151_Sarsuna College.csv,22.481205,88.284538,Silence zone
+46,"DESHABANDHU MAHAVIDYALAYA, CHITTARANJAN",Paschim Bardhaman,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0152_DESHABANDHU MAHAVIDYALAYA, CHITTARANJAN.csv",23.836479,86.898308,Silence zone
+47,Aghorekamini Prakash Chandra Mahavidyalaya,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0153_Aghorekamini Prakash Chandra Mahavidyalaya.csv,22.9401,87.69046,Silence zone
+48,Mahadevananda Mahavidyalaya,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0154_Mahadevananda Mahavidyalaya.csv,22.77253,88.337807,Silence zone
+49,"East Calcutta Girls College, Lake Town",Kolkata,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0155_East Calcutta Girls College, Lake Town.csv",22.601677,88.40464,Silence zone
+50,"Panchakot Mahavidyalaya, Sarberia",Purulia,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0156_Panchakot Mahavidyalaya, Sarberia.csv",23.647375,86.817383,Silence zone
+51,"Raghunathpur College, Raghunathpur",Purulia,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0157_Raghunathpur College, Raghunathpur.csv",23.53153,86.654327,Silence zone
+52,Jalan Complex,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0149_Jalan Complex.csv,22.5935185,88.2131807,Industrial
+53,"Office of The Commissioner of Police, Barrackpore",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0158_Office of The Commissioner of Police, Barrackpore.csv",22.759823,88.366684,Commercial
+54,"Office of The Assistant Commissioner of Police, Belghoria",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0159_Office of The Assistant Commissioner of Police, Belghoria.csv",22.690975,88.375473,Commercial
+55,"Netaji Subhas Ashram Mahavidyalaya, Suisa",Purulia,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0160_Netaji Subhas Ashram Mahavidyalaya, Suisa.csv",23.198601,85.905449,Silence zone
+56,"Barabazar Bikram Tudu Memorial College, Barabhum",Purulia,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0161_Barabazar Bikram Tudu Memorial College, Barabhum.csv",23.034679,86.364548,Silence zone
+57,"Achhruram Memorial College, Jhalda",Purulia,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0162_Achhruram Memorial College, Jhalda.csv",23.368233,85.988495,Silence zone
+58,"Pandit Raghunath Murmu Smriti Mahavidyalaya, Jambani",Bankura,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0192_Pandit Raghunath Murmu Smriti Mahavidyalaya, Jambani.csv",22.863989,87.005859,Silence zone
+59,"Indas Mahavidyalaya, Khosbag",Bankura,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0163_Indas Mahavidyalaya, Khosbag.csv",23.15568,87.608299,Silence zone
+60,Sundarban Mahavidyalaya,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0164_Sundarban Mahavidyalaya.csv,21.873987,88.189209,Silence zone
+61,Sundarban Hazi Desarat College,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0167_Sundarban Hazi Desarat College.csv,22.206356,88.751076,Silence zone
+62,Krishnagar Govt. College,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0165_Krishnagar Govt. College.csv,23.409578,88.48568,Silence zone
+63,"Syed Nurul Hasan College, Farakka",Murshidabad,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0166_Syed Nurul Hasan College, Farakka.csv",24.792398,87.917824,Silence zone
+64,"Sambhu Nath College, Labpur",Birbhum,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0169_Sambhu Nath College, Labpur.csv",23.808716,87.798553,Silence zone
+65,Sagar Mahavidyalaya,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0173_Sagar Mahavidyalaya.csv,21.745411,88.101288,Silence zone
+66,Gangasagar development authority,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0174_Gangasagar development authority.csv,21.639336,88.075783,Commercial
+67,Jalangi Mahavidyalaya,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0168_Jalangi Mahavidyalaya.csv,24.12887,88.673798,Silence zone
+68,Bankura University,Bankura,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0175_Bankura University.csv,23.277523,87.085135,Silence zone
+69,Sukanta Mahavidyalaya,Jalpaiguri,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0170_Sukanta Mahavidyalaya.csv,26.571056,89.036247,Silence zone
+70,"Irrigation Campus,Jalpaiguri",Jalpaiguri,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0171_Irrigation Campus,Jalpaiguri.csv",26.517302,88.733269,Commercial
+71,"Irrigation Campus, Alipurduar",Alipurduar,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0133_Irrigation Campus, Alipurduar.csv",26.498775,89.528595,Commercial
+72,"Irrigation Campus, Coochbehar",Coochbehar,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0132_Irrigation Campus, Coochbehar.csv",26.318352,89.4398,Commercial
+73,"Irrigation Campus, Siliguri",Darjeeling,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0172_Irrigation Campus, Siliguri.csv",26.687822,88.415253,Commercial
+74,"Irrigation Campus, Malda",Malda,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0176_Irrigation Campus, Malda.csv",24.986189,88.145279,Commercial
+75,"BDO Office Campus,Hili",Dakshin Dinajpur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0177_BDO Office Campus,Hili.csv",25.278173,88.992645,Commercial
+76,"Irrigation Campus, Balurghat",Dakshin Dinajpur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0179_Irrigation Campus, Balurghat.csv",25.240705,88.783043,Commercial
+77,"Irrigation Campus, Raiganj",Uttar Dinajpur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0178_Irrigation Campus, Raiganj.csv",25.624203,88.136978,Commercial
+78,Raidighi College,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0187_Raidighi College.csv,21.991528,88.440903,Silence zone
+79,"Irrigation Campus, Kakdwip",South 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0188_Irrigation Campus, Kakdwip.csv",21.874529,88.188362,Commercial
+80,Howrah Municipal Office,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0186_Howrah Municipal Office.csv,22.58383,88.334747,Commercial
+81,Sarojini Naidu College for Women,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0180_Sarojini Naidu College for Women.csv,22.626616,88.418427,Silence zone
+82,Tajpur,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0119_Tajpur.csv,,,
+83,"Aparajita Cottage, Digha",Purba Medinipur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0182_Aparajita Cottage, Digha.csv",21.623213,87.521599,Residential
+84,Avidipta Housing Complex,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0181_Avidipta Housing Complex.csv,22.493217,88.39831,Residential
+85,Bagnan Forest Beat,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0193_Bagnan Forest Beat.csv,22.1940609,88.9607084,Commercial
+86,Flora Fountain,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0195_Flora Fountain.csv,22.548601,88.382278,Residential
+87,Deepanjali Marriage Hall,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0198_Deepanjali Marriage Hall.csv,22.770382,88.37879,Residential
+88,Lalkuthi Crossing,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0190_Lalkuthi Crossing.csv,22.766516,88.369453,Commercial
+89,A.B.N. Seal College,Coochbehar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0191_A.B.N. Seal College.csv,26.321541,89.4487,Silence zone
+90,"Poura Prashikhan Kendra, Barrackpore",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0199_Poura Prashikhan Kendra, Barrackpore.csv",22.756979,88.37544,Commercial
+91,Urbana Housing Complex,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0183_Urbana Housing Complex.csv,22.511478,88.412498,Residential
+92,Islampur SDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0197_Islampur SDO Office.csv,26.255798,88.185776,Commercial
+93,"Bandapani Tea Garden, Jalpaiguri",Jalpaiguri,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0196_Bandapani Tea Garden, Jalpaiguri.csv",26.795528,89.14505,Commercial
+94,Old Calcutta Road Checkpost,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0200_Old Calcutta Road Checkpost.csv,22.745003,88.38239,Commercial
+95,Jhingekhali Forrest Office,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0194_Jhingekhali Forrest Office.csv,22.1013927,89.0370822,Commercial
+96,Tentulberia Health Center,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0204_Tentulberia Health Center.csv,22.0642692,88.0950455,Commercial
+97,"Paranchak Sikshaniketan(H.S), Haldia",Purba Medinipur,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0203_Paranchak Sikshaniketan(H.S), Haldia.csv",22.105443,88.1260812,Silence zone
+98,Budge Budge Institute of Technology,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0205_Budge Budge Institute of Technology.csv,22.4588161,88.1683649,Silence zone
+99,Haldia Government College,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0201_Haldia Government College.csv,22.0519311,88.0662232,Silence zone
+100,Chinsura Imambara Hospital,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0206_Chinsura Imambara Hospital.csv,22.8925635,88.3993016,Commercial
+101,Serampore Walsh Superspeciality Hospital,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0202_Serampore Walsh Superspeciality Hospital.csv,22.7552083,88.3466252,Silence Zone
+102,Anadapuri Playground,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0189_Anadapuri Playground.csv,22.762825,88.37412,Commercial
+103,Durgachawk Police Station,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0210_Durgachawk Police Station.csv,22.065767,88.13988,Commercial
+104,Haldia Police Station,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0209_Haldia Police Station.csv,22.05351,88.09422,Commercial
+105,Urban Health Center,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0218_Urban Health Center.csv,,,
+106,Dinabandhu College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0220_Dinabandhu College.csv,23.0565507,88.8262995,Silence zone
+107,Haldia PCB Office,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0221_Haldia PCB Office.csv,22.06077,88.046341,Commercial
+108,Barrackpore WBPCB Office,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0207_Barrackpore WBPCB Office.csv,22.859509,88.42931,Commercial
+109,Kumargram Police Station,Alipurduar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0185_Kumargram Police Station.csv,26.616272,89.82575,Commercial
+110,Bidhannagar Pump House,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0223_Bidhannagar Pump House.csv,23.5159604,87.348277,Commercial
+111,Gobardanga College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0211_Gobardanga College.csv,22.8820946,88.7576054,Silence zone
+112,Durgapur Gopalmath,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0213_Durgapur Gopalmath.csv,23.5738925,87.2210603,Commercial
+113,Ambagan Borough Office,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0214_Ambagan Borough Office.csv,,,
+114,DMC New Water Treatment Plant,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0208_DMC New Water Treatment Plant.csv,23.5090793,87.2698948,Commercial
+115,Fultola Bathing Ghat,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0215_Fultola Bathing Ghat.csv,22.602688,88.3509467,Commercial
+116,Sagarbhanga Old BDO Office,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0212_Sagarbhanga Old BDO Office.csv,23.496225,87.3350927,Commercial
+117,Gharbeta Police Station,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0216_Gharbeta Police Station.csv,22.8590483,87.3551595,Commercial
+118,Salboni Police Station,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0222_Salboni Police Station.csv,22.6404054,87.3231316,Commercial
+119,Kaliapahari Dumping Ground,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0217_Kaliapahari Dumping Ground.csv,23.679553,87.011586,Residential
+120,Robin Sen Stadium,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0226_Robin Sen Stadium.csv,23.6241972,87.1132697,Commercial
+121,Ghatal Police station,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0230_Ghatal Police station.csv,22.6648088,87.725991,Commercial
+122,Lokmanya Bal Gangadhar Tilak Park,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0219_Lokmanya Bal Gangadhar Tilak Park.csv,22.5621956,88.3238261,Residential
+123,Presidency University,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0228_Presidency University.csv,22.5763855,88.3610445,Silence zone
+124,Dantan Police Station,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0227_Dantan Police Station.csv,21.9409019,87.2738957,Commercial
+125,Pingla Police Station,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0224_Pingla Police Station.csv,22.2779427,87.5841705,Commercial
+126,Hijli Town Office Police Kharagpur,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0229_Hijli Town Office Police Kharagpur.csv,22.3194375,88.3080454,Silence zone
+127,Solaris Ideal Riverview,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0232_Solaris Ideal Riverview.csv,22.5544145,88.3096577,Residential
+128,Chopra Kamala Paul Smriti Mahavidyalaya,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0225_Chopra Kamala Paul Smriti Mahavidyalaya.csv,26.3692027,88.3248743,Silence zone
+129,Dalkhola High School,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0234_Dalkhola High School.csv,25.8770566,87.8446533,Silence zone
+130,BL Saha Road,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0238_BL Saha Road.csv,,,
+131,Madhyamgram Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0236_Madhyamgram Municipality.csv,22.692993,88.465263,Commercial
+132,Triveni Devi Bhalotia College,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0237_Triveni Devi Bhalotia College.csv,23.61746,87.11829,Silence zone
+133,Taki Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0239_Taki Municipality.csv,22.581987,88.93499,Commercial
+134,Lady Brabourne College,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0235_Lady Brabourne College.csv,22.5451541,88.3673286,Silence zone
+135,Barasat Goverment College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0240_Barasat Goverment College.csv,22.7173468,88.4783074,Silence zone
+136,Karunamoye Bus Stand,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0241_Karunamoye Bus Stand.csv,22.586946,88.420784,Commercial
+137,Jhargram University,Jhargram,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0242_Jhargram University.csv,22.359102,87.026222,Silence zone
+138,Goalpokhur Govt. ITI College,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0233_Goalpokhur Govt. ITI College.csv,26.13087,88.02151,Silence zone
+139,Dumkal College,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0243_Dumkal College.csv,24.104362,88.535843,Silence zone
+140,Chandidas Market,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0116_Chandidas Market.csv,23.568953,87.311852,Commercial
+141,"Ballygunge Campus, C.U",Kolkata,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0245_Ballygunge Campus, C.U.csv",22.526701,88.36321,Silence zone
+142,Shyam Sel & Power LTD Mangalpur,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0246_Shyam Sel & Power LTD Mangalpur.csv,23.614372,87.145706,Industrial zone
+143,Dihika Pump House,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0247_Dihika Pump House.csv,23.644926,86.90052,Commercial
+144,City Centre 1 Park,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0249_City Centre 1 Park.csv,22.587301,88.40691,Commercial
+145,Bidhannagar East Police Station,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0250_Bidhannagar East Police Station.csv,22.587427,88.43355,Commercial
+146,Sabang Sajanikanta Mahavidyalaya,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0248_Sabang Sajanikanta Mahavidyalaya.csv,22.219339,87.564896,Silence zone
+147,Dhapa Lock Pumping Station ,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0251_Dhapa Lock Pumping Station .csv,22.558027,88.40998,Commercial
+148,Rajarhat Police Station,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0252_Rajarhat Police Station.csv,22.631929,88.484833,Commercial
+149,Asansol Engineering College,Paschim Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0231_Asansol Engineering College.csv,23.7157922,86.9487045,Silence zone
+150,University of Kalyani,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0244_University of Kalyani.csv,22.982246,88.440384,Silence zone
+151,Bhairab Ganguly College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0254_Bhairab Ganguly College.csv,22.6596117,88.3803253,Silence zone
+152,Kandi Hospital,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0256_Kandi Hospital.csv,23.9534367,88.0396083,Commercial
+153,National Atlas Bhavan,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0259_National Atlas Bhavan.csv,22.5705348,88.430926,Commercial
+154,Maulana Azad Collage,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0258_Maulana Azad Collage.csv,22.560925,88.358155,Silence zone
+155,Kanchrapara Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0262_Kanchrapara Municipality.csv,22.9435033,88.4489083,Commercial
+156,Nabadwip Municipality,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0263_Nabadwip Municipality.csv,23.4079733,88.3632733,Commercial
+157,Naihati Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0264_Naihati Municipality.csv,22.888831,88.4169647,Commercial
+158,Loreto College ,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0265_Loreto College .csv,22.549372,88.35171,Silence zone
+159,Panihati Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0260_Panihati Municipality.csv,22.700685,88.3759933,Commercial
+160,Memari Municipality,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0269_Memari Municipality.csv,23.176558,88.0945783,Commercial
+161,Hiralal Bhakat College,Birbhum,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0271_Hiralal Bhakat College.csv,24.286431,87.8428311,Silence zone
+162,Katwa Municipality,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0273_Katwa Municipality.csv,23.6489667,88.128988,Commercial
+163,Baranagar Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0280_Baranagar Municipality.csv,22.6460307,88.3714185,Commercial
+164,Asutosh 2nd Campus,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0266_Asutosh 2nd Campus.csv,22.4058581,88.277995,Silence zone
+165,Rishra Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0277_Rishra Municipality.csv,22.727676,88.344182,Commercial
+166,Titagarh Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0261_Titagarh Municipality.csv,22.737385,88.372624,Commercial
+167,Mirik Notified Area Authority,Darjeeling,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0275_Mirik Notified Area Authority.csv,22.89272,88.184985,Commercial
+168,Mekliganj Municipality,Coochbehar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0276_Mekliganj Municipality.csv,26.34729,88.908282,Commercial
+169,Haldibari Municipality,Coochbehar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0274_Haldibari Municipality.csv,26.337505,88.78157,Commercial
+170,Barasat Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0281_Barasat Municipality.csv,22.718245,88.488307,Commercial
+171,Falakata Municipality,Alipurduar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0272_Falakata Municipality.csv,26.527882,89.193945,Commercial
+172,Dinhata Municipality   ,Alipurduar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0268_Dinhata Municipality   .csv,26.137605,89.4610067,Commercial
+173,Baidyabati Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0283_Baidyabati Municipality.csv,22.787265,88.323571,Commercial
+174,Maheshtala Municipality,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0278_Maheshtala Municipality.csv,22.499561,88.231133,Commercial
+175,Tarakeswar Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0284_Tarakeswar Municipality.csv,22.880179,88.012758,Commercial
+176,Tufanganj Municipality,Coochbehar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0267_Tufanganj Municipality.csv,,,
+177,St. Xavier's university,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0290_St. Xavier's university.csv,22.561963,88.487988,Silence zone
+178,New Acharya Prafulla Chandra College,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0288_New Acharya Prafulla Chandra College.csv,22.697426,88.437801,Silence zone
+179,Diamond Harbour Municipality,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0286_Diamond Harbour Municipality.csv,22.19033,88.189522,Commercial
+180,Champdani Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0291_Champdani Municipality.csv,22.809613,88.342566,Commercial
+181,New Barrackpore Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0292_New Barrackpore Municipality.csv,22.6910283,88.4466683,Commercial
+182,Nalhati Municipality,Birbhum,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0270_Nalhati Municipality.csv,24.2975483,87.8259,Commercial 
+183,Narajole Raj College,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0293_Narajole Raj College.csv,22.566376,87.604563,Silence zone
+184,Khirpai municipality,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0289_Khirpai municipality.csv,22.710785,87.61818,Commercial 
+185,Kharar Municipality,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0301_Kharar Municipality.csv,22.723705,87.676381,Commercial
+186,Uluberia Municipality ,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0300_Uluberia Municipality .csv,22.46848,88.107284,Commercial
+187,Gangarampur Municipality,Dakshin Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0294_Gangarampur Municipality.csv,25.403248,88.545584,Commercial
+188,Dalkhola Municipality,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0298_Dalkhola Municipality.csv,25.872341,87.848491,Commercial
+189,Gayeshpur Municipality,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0296_Gayeshpur Municipality.csv,22.955671,88.476583,Commercial
+190,Ramjibanpur Municipality,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0299_Ramjibanpur Municipality.csv,22.8261569,87.6055417,Commercial
+191,Bhatpara Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0297_Bhatpara Municipality.csv,22.8480738,88.386008,Commercial
+192,Chakdaha Municipality ,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0303_Chakdaha Municipality .csv,23.08027,88.531525,Commercial
+193,Cooper's Camp,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0307_Cooper's Camp.csv,23.16096,88.5833517,Commercial
+194,Halisahar Municipality ,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0302_Halisahar Municipality .csv,22.937878,88.413593,Commercial
+195,Pujali Municipality,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0306_Pujali Municipality.csv,22.4683367,88.1516133,Commercial
+196,Tamralipta Municipality,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0309_Tamralipta Municipality.csv,22.288388,87.9177767,Commercial
+197,Egra Municipality,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0308_Egra Municipality.csv,21.899495,87.5355956,Commercial
+198,Konnagar Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0311_Konnagar Municipality.csv,22.7031928,88.3582327,Commercial
+199,Baruipur Municipality,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0305_Baruipur Municipality.csv,22.3620204,88.4309779,Commercial
+200,Uttarpara Kotrung Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0313_Uttarpara Kotrung Municipality.csv,22.6605077,88.3495288,Commercial
+201,Dankuni Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0317_Dankuni Municipality.csv,22.6817158,88.2948667,Commercial
+202,Taherpur Notified Area Authority,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0314_Taherpur Notified Area Authority.csv,23.26166,88.538524,Commercial
+203,Birnagar Municipality,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0310_Birnagar Municipality.csv,23.2324717,88.5567617,Commercial
+204,Bally Municipality,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0295_Bally Municipality.csv,22.6474767,88.3509999,Commercial
+205,North Dumdum Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0312_North Dumdum Municipality.csv,22.6705117,88.43389,Commercial
+206,Chopra BDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0319_Chopra BDO Office.csv,26.367688,88.3104099,Commercial
+207,Goalpokher I BDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0318_Goalpokher I BDO Office.csv,26.088628,88.1291117,Commercial
+208,Karandighi BDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0323_Karandighi BDO Office.csv,26.0274499,87.9436366,Commercial
+209,Goalpokher II BDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0322_Goalpokher II BDO Office.csv,26.0274499,87.9436366,Commercial
+210,Raiganj B.D.O Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0324_Raiganj B.D.O Office.csv,25.6093,88.13314,Commercial
+211,Itahar BDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0325_Itahar BDO Office.csv,25.4510283,88.1723783,Commercial
+212, Kaliaganj B.D.O Office ,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0320_ Kaliaganj B.D.O Office .csv,25.4510283,88.1723783,Commercial
+213,Hemtabad BDO Office,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0321_Hemtabad BDO Office.csv,25.6786011,88.2143606,Commercial
+214,Bethune College,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0326_Bethune College.csv,22.58851,88.367807,Silence zone
+215,Ranaghat Municipality,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0316_Ranaghat Municipality.csv,23.1753734,88.5581921,Commercial
+216,Kalna Municipality,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0327_Kalna Municipality.csv,23.220733,88.364588,Commercial
+217,Garulia Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0329_Garulia Municipality.csv,22.8237222,88.3656453,Commercial
+218,Baduria Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0331_Baduria Municipality.csv,22.7385817,88.7889833,Commercial
+219,Jiaganj-Azimganj Municipality,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0332_Jiaganj-Azimganj Municipality.csv,24.23774,88.2591783,Commercial
+220,Sonamukhi Municipality,Bankura,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0330_Sonamukhi Municipality.csv,23.3047483,87.415082,Commercial
+221,Beldanga Municipality,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0333_Beldanga Municipality.csv,,,
+222,Chandrakona Municipality,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0328_Chandrakona Municipality.csv,22.7336617,87.5199717,Commercial
+223,Ashoknagar-Kalyangarh Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0335_Ashoknagar-Kalyangarh Municipality.csv,22.8397467,88.621205,Commercial
+224,Katwa College,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0343_Katwa College.csv,23.6499876,88.1227427,Silence zone
+225,Guskara Municipality,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0344_Guskara Municipality.csv,23.49295,87.741299,Commercial
+226,Dainhat Municipality,Purba Bardhaman,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0342_Dainhat Municipality.csv,23.6030267,88.167853,Commercial
+227,Rajpur-Sonarpur Municipality,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0334_Rajpur-Sonarpur Municipality.csv,22.416327,88.415761,Commercial
+228,Old Malda Municipality,Malda,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0337_Old Malda Municipality.csv,25.0173787,88.1466068,Commercial
+229,Buniadpur Municipality,Dakshin Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0340_Buniadpur Municipality.csv,25.406616,88.396846,Commercial
+230,Kamarhati Municipality,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0353_Kamarhati Municipality.csv,22.662251,88.379349,Commercial
+231,Bhadreswar Municipality,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0338_Bhadreswar Municipality.csv,22.829374,88.336851,Commercial
+232,Sainthia Municipality,Birbhum,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0346_Sainthia Municipality.csv,23.944557,87.669947,Commercial
+233,Bolpur Municipality,Birbhum,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0341_Bolpur Municipality.csv,23.66501,87.6799117,Commercial
+234,Dubrajpur Municipality,Birbhum,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0350_Dubrajpur Municipality.csv,23.786546,87.370553,Commercial
+235,Nabagram Amar Chand Kundu College,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0345_Nabagram Amar Chand Kundu College.csv,24.191967,88.09742,Silence zone
+236,Jadavpur University,Kolkata,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0351_Jadavpur University.csv,22.501592,88.371607,Silence zone
+237,Kurseong Municipality,Darjeeling,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0347_Kurseong Municipality.csv,26.879883,88.278414,Commercial
+238,Santipur Municipality,Nadia,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0352_Santipur Municipality.csv,23.235114,88.423273,Commercial
+239,Mal Municipality,Jalpaiguri,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0358_Mal Municipality.csv,,,
+240,Mathabhanga Municipality,Coochbehar,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0360_Mathabhanga Municipality.csv,26.340837,89.213017,Commercial
+241,Contai Municipality,Purba Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0354_Contai Municipality.csv,21.778625,87.752428,Commercial
+242,Jaynagar  Municipality,South 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0356_Jaynagar  Municipality.csv,22.168414,88.421257,Commercial
+243,Ghatal Municipality,Paschim Medinipur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0355_Ghatal Municipality.csv,,,
+244,Paschim Khilkapur G.P. (Algaria),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0357_Paschim Khilkapur G.P. (Algaria).csv,22.753222,88.486624,Commercial
+245,Duttapukur-II G.P.,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0359_Duttapukur-II G.P..csv,22.76072,88.548069,Commercial
+246,Mohanpur G.P.,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0363_Mohanpur G.P..csv,22.7709816,88.394588,Commercial
+247,Mohanpur G.P.(Chak Kanthalia),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0365_Mohanpur G.P.(Chak Kanthalia).csv,22.762725,88.3881883,Commercial
+248,Mohanpur G.P.(Jafarpur),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0364_Mohanpur G.P.(Jafarpur).csv,22.7751866,88.382525,Commercial
+249,Bilkanda G.P.(Talbanda),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0366_Bilkanda G.P.(Talbanda).csv,22.6974616,88.435235,Commercial
+250,Bilkanda G.P.(Tegharia),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0368_Bilkanda G.P.(Tegharia).csv,22.693545,88.412168,Commercial
+251,Paschim Khilkapur G.P. (Chaturia),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0361_Paschim Khilkapur G.P. (Chaturia).csv,22.741285,88.4726313,Commercial
+252,Chhoto Jagulia G.P. (Bamungachi),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0362_Chhoto Jagulia G.P. (Bamungachi).csv,22.7462,88.520421,Commercial
+253,Bilkanda G.P.(Muragachha),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0367_Bilkanda G.P.(Muragachha).csv,22.696295,88.4226517,Commercial
+254,Karana Madhabpur,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0385_Karana Madhabpur.csv,22.71515,88.420108,Commercial
+255,"Bandipur GP, Doperia",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0381_Bandipur GP, Doperia.csv",22.72072,88.41033,Commercial
+256,Shasan Gram Panchayat,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0384_Shasan Gram Panchayat.csv,22.65842,88.59227,Commercial
+257,"Bandipur G.P, (Iswaripur)",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0382_Bandipur G.P, (Iswaripur).csv",22.735807,88.410284,Commercial
+258,"ChotoJagulia G.P, (Bazitpur )",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0373_ChotoJagulia G.P, (Bazitpur ).csv",22.7410077,88.4994019,Commercial
+259,"Icchapur Nilganj, (Taldhoria)",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0372_Icchapur Nilganj, (Taldhoria).csv",22.708953,88.438222,Commercial
+260,"Pashchim Khilkapur, (Maynagadi)",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0374_Pashchim Khilkapur, (Maynagadi).csv",22.742294,88.484347,Commercial
+261,Kadambagachi G.P. (Pirgacha),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0376_Kadambagachi G.P. (Pirgacha).csv,22.711107,88.522979,Commercial
+262,Kadambagachi G.P. (Chondigori),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0375_Kadambagachi G.P. (Chondigori).csv,,,
+263,"Ichhapur Nilganj, (Sadarpur)",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0377_Ichhapur Nilganj, (Sadarpur).csv",22.752763,88.39136,Commercial
+264,"Choto Jagulia, Bara",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0378_Choto Jagulia, Bara.csv",22.728067,88.517453,Commercial
+265,Patulia G.P. (Patulia),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0380_Patulia G.P. (Patulia).csv,22.73405,88.388985,Commercial
+266,Patulia G.P. (Ruiya),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0379_Patulia G.P. (Ruiya).csv,22.752725,88.391302,Commercial
+267,Dhuliya Gram Panchayat,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0387_Dhuliya Gram Panchayat.csv,22.579667,88.248468,Commercial
+268,Bilkanda G.P. (Chandpur),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0370_Bilkanda G.P. (Chandpur).csv,22.7080083,88.4162083,Commercial
+269,Bilkanda G.P.( Mahispota),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0369_Bilkanda G.P.( Mahispota).csv,22.7080083,88.4162083,Commercial
+270,Jugberia Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0386_Jugberia Mouza.csv,22.698942,88.42678,Commercial
+271,"Icchapur Nilganj, (Kapasia)",North 24 Pgs.,"http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0371_Icchapur Nilganj, (Kapasia).csv",22.714498,88.434732,Commercial
+272,Manikpur gram panchayat,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0390_Manikpur gram panchayat.csv,22.532619,88.228936,
+273,Chandigarh Rohanda (Banaspol),North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0392_Chandigarh Rohanda (Banaspol).csv,22.674821,88.492298,Commercial
+274,Kuberpur Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0396_Kuberpur Mouza.csv,22.704908,88.523177,Commercial
+275,Khalia Mouza,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0395_Khalia Mouza.csv,22.62328,88.294286,Commercial
+276,Bally G.P.,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0389_Bally G.P..csv,22.642002,88.338262,Commercial
+277,Rajarhat BDO Office,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0391_Rajarhat BDO Office.csv,22.698942,88.492298,Commercial
+278,Anandanagar Panchayat,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0394_Anandanagar Panchayat.csv,22.618873,88.321871,Commercial
+279,Kanaipur G.P,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0393_Kanaipur G.P.csv,22.702348,88.321033,Commercial
+280,Eksara Mouza,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0397_Eksara Mouza.csv,22.63026,88.290811,Commercial
+281,Barasat 2 BDO Office,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0404_Barasat 2 BDO Office.csv,22.666625,88.530707,Commercial
+282,Sarenga G.P,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0398_Sarenga G.P.csv,22.532842,88.218128,Commercial
+283,Dakshin Rajyadhapur,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0402_Dakshin Rajyadhapur.csv,,,
+284,Nabagram Colony Mouza,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0401_Nabagram Colony Mouza.csv,22.703799,88.342007,Commercial
+285,Pandit Satghora,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0405_Pandit Satghora.csv,22.735884,88.33143,Commercial
+286,Rishra Mouza,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0403_Rishra Mouza.csv,22.715411,88.332856,Commercial
+287,Kamranga,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0406_Kamranga.csv,22.574064,88.239564,Commercial
+288,Hatgachha Mouza,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0409_Hatgachha Mouza.csv,22.56526,88.242414,Commercial
+289,Deara Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0383_Deara Mouza.csv,22.637903,88.48252,Commercial
+290,Rohanda Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0399_Rohanda Mouza.csv,22.657114,88.483175,Commercial
+291,Chak Radhadasi Mouza,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0408_Chak Radhadasi Mouza.csv,,,
+292,Rekjuani Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0400_Rekjuani Mouza.csv,22.629488,88.481436,Commercial
+293,Ghoramara Mouza,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0407_Ghoramara Mouza.csv,22.736987,88.33141,Commercial
+294,Domnagar Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0413_Domnagar Mouza.csv,22.663128,88.453942,Commercial
+295,Sankrail Mouza,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0412_Sankrail Mouza.csv,22.55856,88.20847,Commercial
+296,Kachua Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0415_Kachua Mouza.csv,22.665893,88.511211,Commercial
+297,Bagberia Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0411_Bagberia Mouza.csv,22.674252,88.515692,Commercial
+298,Kayemba Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0388_Kayemba Mouza.csv,22.676111,88.527181,Commercial
+299,Jhorhat Mouza,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0410_Jhorhat Mouza.csv,22.57907,88.236258,Commercial
+300,Uttar Jhapartdaha Mouza ,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0420_Uttar Jhapartdaha Mouza .csv,22.644327,88.202623,Commercial
+301,Patharghata G.P,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0422_Patharghata G.P.csv,22.567703,88.501182,Commercial
+302,Pearapur Panchayat,Hooghly,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0414_Pearapur Panchayat.csv,22.756955,88.316971,Commercial
+303,Bilkanda Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0419_Bilkanda Mouza.csv,22.703514,88.411499,Commercial
+304,Domjur BDO,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0418_Domjur BDO.csv,22.627258,88.232762,Commercial
+305,Banipur -I G.P,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0416_Banipur -I G.P.csv,22.563995,88.234141,Commercial
+306,Ankurhati Mouza ,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0417_Ankurhati Mouza .csv,,,
+307,Bamanghata G.P,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0421_Bamanghata G.P.csv,22.5197963,88.466187,Commercial
+308,Rajarhat BLRO Office ,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0423_Rajarhat BLRO Office .csv,22.628053,88.4877662,Commercial
+309,Bhangar II BDO,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0424_Bhangar II BDO.csv,22.518792,88.609185,Commercial
+310, Kaliaganj Municipality,Uttar Dinajpur,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0336_ Kaliaganj Municipality.csv,25.639089,88.33562,Commercial
+311,Polerhat Police Station,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0425_Polerhat Police Station.csv,22.591767,88.580273,
+312,Dhuliyan Municipality,Murshidabad,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0339_Dhuliyan Municipality.csv,24.676595,87.953304,Commercial 
+313,Kokapur Mouza ,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0427_Kokapur Mouza .csv,22.754029,88.439341,Commercial 
+314,Salap-II,Howrah,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0428_Salap-II.csv,22.605708,88.257118,Commercial
+315,Choto Jaguliya Mouza,North 24 Pgs.,http://wbpcb-anms.s3-website.ap-south-1.amazonaws.com/A0426_Choto Jaguliya Mouza.csv,22.749647,88.512332,Commercial 
